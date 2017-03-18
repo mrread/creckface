@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
 # Tool: MR.READ CTD TEAM
-# Author: creckface.py
+# Author: chackface.py
 # Contact: CALYSTA.ADELINA01@GMAIL.COM
 # Code date: 18 MARET 2017
 # 
@@ -10,7 +10,7 @@
 # MR.READ Cracker is a password cracking tool written in perl to perform a dictionary-based attack on a specific Facebook user through HTTPS.
 #
 # Usage:
-# perl creckface.py login wordlist
+# perl chackface.py login wordlist
 # login could be either a user's email address or profile name
 #
 # Module Requirements:
