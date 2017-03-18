@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
 # Tool: MR.READ CTD TEAM
-# Author: chackface.py
+# Author: checkface.py
 # Contact: CALYSTA.ADELINA01@GMAIL.COM
 # Code date: 18 MARET 2017
 # 
