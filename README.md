@@ -1,5 +1,5 @@
-# creckface
-script crecking/bruto force akun facebook.
+# checkface
+script checking/bruto force akun facebook.
 
 
 # code by mr.read
